@@ -3,7 +3,7 @@
 
 <td width="60%">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=poppins&weight=800&size=40&pause=1000&width=435&lines=Hello+World+!!;Hey!%2CI'm+Nikith)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=poppins&weight=800&size=30&pause=1000&width=435&lines=Hello+World+!!;Hey!%2CI'm+Nikith)](https://git.io/typing-svg)
 
 
 </td>
