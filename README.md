@@ -1,14 +1,17 @@
 <table width="100%">
 <tr>
 
-<td width="60%">
+<td width="70%">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=poppins&weight=1000&size=40&letterSpacing=0.2rem;&pause=1000&vCenter=true&width=435&height=80&lines=Hello+World!!;Hey!%2CI'm+Nikith)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=poppins&weight=800&size=40&height=100&letterSpacing=0.2rem;&pause=1000&vCenter=true&width=435&height=80&lines=Hello+World!!;Hey!%2CI'm+Nikith)](https://git.io/typing-svg)
 </td>
-<td width="40%"></td>
+<td width="20%">
+<img src="https://c.tenor.com/lUax-CJ3QVoAAAAC/tenor.gif">
+</td>
+
 </tr>
 <table>
+---
 ---
 
 # Hi, I'm Pydi Nikith 👋
